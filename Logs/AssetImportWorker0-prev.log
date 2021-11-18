@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.19f1 (5f5eb8bbdc25) revision 6250168'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Enterprise; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16303 MB
+OS: 'Windows 10 Enterprise; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16303 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
@@ -11,61 +11,61 @@ C:\Program Files\Unity 2021.1.19f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/jramirez14/Unity Projects/kingdom-unity
+C:/Users/jmercer4/Unity Projects/kingdom-unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55969
-Successfully changed project path to: C:/Users/jramirez14/Unity Projects/kingdom-unity
-C:/Users/jramirez14/Unity Projects/kingdom-unity
+63505
+Successfully changed project path to: C:/Users/jmercer4/Unity Projects/kingdom-unity
+C:/Users/jmercer4/Unity Projects/kingdom-unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 91.93 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 90.72 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.19f1 (5f5eb8bbdc25)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.19f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/jramirez14/Unity Projects/kingdom-unity/Assets
+[Subsystems] Discovering subsystems at path C:/Users/jmercer4/Unity Projects/kingdom-unity/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
     Vendor:   NVIDIA
     VRAM:     8031 MB
-    Driver:   27.21.14.5638
+    Driver:   26.21.14.3200
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56160
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002208 seconds.
+Registered in 0.001761 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 91.00 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 90.19 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
+- Completed reload, in  1.034 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1076ms)
-		BeginReloadAssembly (55ms)
+	ReloadAssembly (1034ms)
+		BeginReloadAssembly (53ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (396ms)
-			LoadAssemblies (53ms)
+			LoadAssemblies (51ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (132ms)
+			SetupTypeCache (133ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (24ms)
-			SetupLoadedEditorAssemblies (202ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (201ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (91ms)
+				RefreshPlugins (90ms)
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (80ms)
 				ProcessInitializeOnLoadMethodAttributes (24ms)
@@ -75,54 +75,54 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004491 seconds.
+Registered in 0.004395 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\jramirez14\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\jramirez14\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jmercer4\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jmercer4\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 94.93 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 93.11 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.107 seconds
+- Completed reload, in  1.077 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1107ms)
-		BeginReloadAssembly (128ms)
+	ReloadAssembly (1077ms)
+		BeginReloadAssembly (135ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (930ms)
-			LoadAssemblies (105ms)
+		EndReloadAssembly (891ms)
+			LoadAssemblies (94ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (307ms)
+			SetupTypeCache (306ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (396ms)
+			SetupLoadedEditorAssemblies (374ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (95ms)
-				BeforeProcessingInitializeOnLoad (77ms)
-				ProcessInitializeOnLoadAttributes (199ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (187ms)
 				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.60 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3724 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.7 MB.
-System memory in use after: 140.0 MB.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.6 MB.
 
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4178.
-Total: 3.062300 ms (FindLiveObjects: 0.220000 ms CreateObjectMapping: 0.138600 ms MarkObjects: 2.647700 ms  DeleteObjects: 0.055400 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4180.
+Total: 3.412100 ms (FindLiveObjects: 0.315000 ms CreateObjectMapping: 0.170200 ms MarkObjects: 2.862800 ms  DeleteObjects: 0.063300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -136,877 +136,144 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/platformer-extendedtiles-0.zip
-  artifactKey: Guid(fc52e8588b131bc4a9f9469da2cb47df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0.zip using Guid(fc52e8588b131bc4a9f9469da2cb47df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f740a56f8cdc362e0f904f1d0dc8123b') in 0.060903 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.013388 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0
-  artifactKey: Guid(e39575ebe1b89e6429cacb1432831827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0 using Guid(e39575ebe1b89e6429cacb1432831827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a66f8b39092a02eb7b98069ae147e5b') in 0.003059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.092607 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/preview.png
-  artifactKey: Guid(8d6acf9be8d09ed428c3cd84fcc79cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/preview.png using Guid(8d6acf9be8d09ed428c3cd84fcc79cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da5be780582d2356869d766f1cfe7a4') in 0.146474 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/sample.png
-  artifactKey: Guid(931ec8e547b60834387f67df7350afee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/sample.png using Guid(931ec8e547b60834387f67df7350afee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e685ff8b447df6525b7a7f904c3c984') in 0.017487 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.702145 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake
-  artifactKey: Guid(9ac490148328fb94a8120d038e998bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake using Guid(9ac490148328fb94a8120d038e998bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffa3839744a9ecf03d39cae2e2d3eef') in 0.006666 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.091346 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalf.png
-  artifactKey: Guid(a1342676f078a0441bbf3d426138f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalf.png using Guid(a1342676f078a0441bbf3d426138f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef1d119b8fe9418664b5eee339a4478') in 0.011031 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice21_21.png
-  artifactKey: Guid(743624034e816534e907e5bc59553207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice21_21.png using Guid(743624034e816534e907e5bc59553207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b299922457ae615e79a5bfcd8efdd3df') in 0.010605 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice25_25.png
-  artifactKey: Guid(5b73d269001935843bf6afe9c5c7802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice25_25.png using Guid(5b73d269001935843bf6afe9c5c7802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50c4998bb665e9d1089a5a4018729d0') in 0.011332 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice20_20.png
-  artifactKey: Guid(be75768b26e7c1c40b509e4cc3cca2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice20_20.png using Guid(be75768b26e7c1c40b509e4cc3cca2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b6eb601f8dfd25dbb4f08123a0dd0e') in 0.011288 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice36_36.png
-  artifactKey: Guid(3c643364f50be2b46a55929df4e5aa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice36_36.png using Guid(3c643364f50be2b46a55929df4e5aa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5fa9e6075a47018f83012818451e2f') in 0.009650 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfLeft.png
-  artifactKey: Guid(52cf86ff616431240aa3dfd5af705bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfLeft.png using Guid(52cf86ff616431240aa3dfd5af705bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae193dd0b824d79bbd05b2443c18870') in 0.013619 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice19_19.png
-  artifactKey: Guid(5876fc8cf9fb35042bdebead429e490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice19_19.png using Guid(5876fc8cf9fb35042bdebead429e490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23dab847f3b947385403c0469e4ba12') in 0.010664 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice04_04.png
-  artifactKey: Guid(717686246e9bf9a439352061b97424b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice04_04.png using Guid(717686246e9bf9a439352061b97424b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa08e3e4621401e03302ed57a765d543') in 0.013530 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice34_34.png
-  artifactKey: Guid(4c3b83864cf4958478c0a916f2b981aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice34_34.png using Guid(4c3b83864cf4958478c0a916f2b981aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d3e0ebd3455646bb8c0e88ff8f5097') in 0.010977 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltRight.png
-  artifactKey: Guid(73c1083e0723bf743a3a5bbe816212e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltRight.png using Guid(73c1083e0723bf743a3a5bbe816212e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbeecff86e099a874322bd035149a95d') in 0.013643 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfMid.png
-  artifactKey: Guid(660ce27e6e46a3f44aac834d38690bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfMid.png using Guid(660ce27e6e46a3f44aac834d38690bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73c5c993894604d0861a58d04fd246b') in 0.011529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice02_02.png
-  artifactKey: Guid(e15a6e16020aaa94d93b9d2012390906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice02_02.png using Guid(e15a6e16020aaa94d93b9d2012390906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e35fe9837ebe13edae349d3a1238a3') in 0.012639 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice35_35.png
-  artifactKey: Guid(1311158bdcf032542bb5554c65a9e13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice35_35.png using Guid(1311158bdcf032542bb5554c65a9e13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fc22a15f885e6ca94faf5e4d778498') in 0.014378 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice17_17.png
-  artifactKey: Guid(9e6b8b9b7f787a8488b143b7baae69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice17_17.png using Guid(9e6b8b9b7f787a8488b143b7baae69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00371420d62e78ea55d1b364547f4153') in 0.009814 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice26_26.png
-  artifactKey: Guid(6caa90502ab89c241930825e1793870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice26_26.png using Guid(6caa90502ab89c241930825e1793870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5720d172f98fe41f1747216f5a01e7fc') in 0.013444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice18_18.png
-  artifactKey: Guid(fd4c44f7310fcd145b11beb5f4f805c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice18_18.png using Guid(fd4c44f7310fcd145b11beb5f4f805c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d0ed8e5aa8b5e085cfa8f11ed084ee2') in 0.009676 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice23_23.png
-  artifactKey: Guid(64f41d287cdb59b4d90582f800285f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice23_23.png using Guid(64f41d287cdb59b4d90582f800285f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fb4f423d765792dc1de6832e4be535') in 0.011821 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice16_16.png
-  artifactKey: Guid(e2f29d51bfeeaf3479dbeadfbabe3317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice16_16.png using Guid(e2f29d51bfeeaf3479dbeadfbabe3317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a292aa64e72fd95f62b40e077b484acd') in 0.012965 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice33_33.png
-  artifactKey: Guid(873734e180e4b534ea839f3398db6352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice33_33.png using Guid(873734e180e4b534ea839f3398db6352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a1d06b623efa895f1e7ed56b8905ab') in 0.012084 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice05_05.png
-  artifactKey: Guid(74e4544c508fff342989e258676b387e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice05_05.png using Guid(74e4544c508fff342989e258676b387e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d59c9213dbf01da66a2b8c81e83945') in 0.012190 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice37_37.png
-  artifactKey: Guid(3b8cac9e5a6cc5443b9d15207f9105df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice37_37.png using Guid(3b8cac9e5a6cc5443b9d15207f9105df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d042fc8f79d224d41f1a86f88de3ab5') in 0.012788 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltLeft.png
-  artifactKey: Guid(ae851f7519f18bc41aada0e8ff5ffa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltLeft.png using Guid(ae851f7519f18bc41aada0e8ff5ffa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6de6605e687518fd63af1ee2847027b') in 0.013333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice32_32.png
-  artifactKey: Guid(75d7dab66387ceb4eb179c3fff22bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice32_32.png using Guid(75d7dab66387ceb4eb179c3fff22bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd81a07ff5b3d784afb17f68663ffc3b') in 0.009917 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice06_06.png
-  artifactKey: Guid(e7151f85bf46b024693a79f9300c0403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice06_06.png using Guid(e7151f85bf46b024693a79f9300c0403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd624beea97f3f6d55719d81f02019056') in 0.013702 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice27_27.png
-  artifactKey: Guid(48c671de7a4926e4bb7c3c3a837cfaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice27_27.png using Guid(48c671de7a4926e4bb7c3c3a837cfaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da64813b8ee26b602470c6bb433f4bb') in 0.012294 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice29_29.png
-  artifactKey: Guid(3e7e0146b2280e9448a6384ecac0a526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice29_29.png using Guid(3e7e0146b2280e9448a6384ecac0a526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bca93665f9e25ae419ac65e0a693cb2') in 0.010449 seconds 
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_4.asset
+  artifactKey: Guid(883dd6cc9db1b1946badda190fc549c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_4.asset using Guid(883dd6cc9db1b1946badda190fc549c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8432b5482e1c9c04278e9841763001f5') in 0.083155 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000211 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice22_22.png
-  artifactKey: Guid(97e0328d55617c241bde1d9e284563c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice22_22.png using Guid(97e0328d55617c241bde1d9e284563c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d272298c24554e4adfe7bfbbfc51da') in 0.012816 seconds 
+  path: Assets/Graphics/slice01_01.asset
+  artifactKey: Guid(4bb09ffbce074ce48a316f75616ada92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/slice01_01.asset using Guid(4bb09ffbce074ce48a316f75616ada92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd20b80fff2245526f8ed3e47ee416a2') in 0.013293 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice38_38.png
-  artifactKey: Guid(a48625a96cd7c754aa6f66c26b88a94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice38_38.png using Guid(a48625a96cd7c754aa6f66c26b88a94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fef91b811a14a7d468a3715ac8a0c7') in 0.012359 seconds 
+  Time since last request: 0.000268 seconds.
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_0.asset
+  artifactKey: Guid(4224e98b48af7bd40bec5e36da683751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_0.asset using Guid(4224e98b48af7bd40bec5e36da683751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e93816bdc4d1079019b44231eb181cc') in 0.010642 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice40_40.png
-  artifactKey: Guid(c875639669187bd4d9466d687a3f69f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice40_40.png using Guid(c875639669187bd4d9466d687a3f69f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a22001c445671d8dbecb3bc1b9fdd0') in 0.013404 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice03_03.png
-  artifactKey: Guid(396298f4258e6e641bd537f9a2be841f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice03_03.png using Guid(396298f4258e6e641bd537f9a2be841f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eba2da7c51cb6a3a8c01baab430035') in 0.012071 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice39_39.png
-  artifactKey: Guid(6fd5eead3df44d3499b8d99ed31b3781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice39_39.png using Guid(6fd5eead3df44d3499b8d99ed31b3781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39e5c16ca41431bc4ec33cce3c6fa0c') in 0.009597 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice24_24.png
-  artifactKey: Guid(2f28a1b914106af4f8ed1c4e83b7a8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice24_24.png using Guid(2f28a1b914106af4f8ed1c4e83b7a8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c728d362f19ab1e88b78ffe795d906b4') in 0.014506 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice31_31.png
-  artifactKey: Guid(8abe652b7ad7b12428fddeac08206975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice31_31.png using Guid(8abe652b7ad7b12428fddeac08206975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b924725b407f318d0c4dbff8c21f226') in 0.011090 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltMid.png
-  artifactKey: Guid(0b9ead9fc46d2c444ac6657c1c072528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAltMid.png using Guid(0b9ead9fc46d2c444ac6657c1c072528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e810a4cbacd00c7bbab6e32633442211') in 0.010946 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice30_30.png
-  artifactKey: Guid(c8a330a794d61b14480afc891eaa3b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice30_30.png using Guid(c8a330a794d61b14480afc891eaa3b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1ba2b7297a13addef8c357d54b459a') in 0.011955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice01_01.png
-  artifactKey: Guid(535c24b3f6722944693bf39e97b3effe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice01_01.png using Guid(535c24b3f6722944693bf39e97b3effe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44364e87bb702e55e62b2238660e5aaf') in 0.010047 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfRight.png
-  artifactKey: Guid(af2c5b0fe7e98a643ad38c3e5892b912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfRight.png using Guid(af2c5b0fe7e98a643ad38c3e5892b912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d41322af9ed7eb912ec2448ba1a0e9') in 0.014894 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice28_28.png
-  artifactKey: Guid(9d504b83652f2374bae700fe1ede01aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice28_28.png using Guid(9d504b83652f2374bae700fe1ede01aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ff53b4fad44c5677c941c7e4403537') in 0.009358 seconds 
+  Time since last request: 0.000209 seconds.
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_2.asset
+  artifactKey: Guid(46f8a5dd1ecf7c841b47fb4043d073dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_2.asset using Guid(46f8a5dd1ecf7c841b47fb4043d073dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18483a0f4406ba9abfefb8bfa07c641') in 0.012613 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000222 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAlt.png
-  artifactKey: Guid(673ac0d762fd05540ac2f0b75848d05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/cakeHalfAlt.png using Guid(673ac0d762fd05540ac2f0b75848d05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d847252b813ac1936d3fd9f19f33af') in 0.008696 seconds 
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_5.asset
+  artifactKey: Guid(2741351c9815d33409410baa6c667d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_5.asset using Guid(2741351c9815d33409410baa6c667d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0aab8ad73cea692b54baed2011ff1a2') in 0.011501 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice07_07.png
-  artifactKey: Guid(5d6e453a785c317419b59cb7c89c1c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/slice07_07.png using Guid(5d6e453a785c317419b59cb7c89c1c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d7014aaf2c15d9d52fcfa10f132190') in 0.009165 seconds 
+  Time since last request: 0.000260 seconds.
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_1.asset
+  artifactKey: Guid(07d94a1b75ac7c442a14c2485d243477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_1.asset using Guid(07d94a1b75ac7c442a14c2485d243477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4dcbcca0a330b9101f5dc0b213f142') in 0.012681 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.625773 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/Spritesheet
-  artifactKey: Guid(4306bc1f5a14f784588975d7c585e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/Spritesheet using Guid(4306bc1f5a14f784588975d7c585e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38aaf936c6065eef16932a8ac1d0bac9') in 0.006778 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.093338 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Cake/Spritesheet/sheet.png
-  artifactKey: Guid(136de035c470cd04aa404f7cf09250c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Cake/Spritesheet/sheet.png using Guid(136de035c470cd04aa404f7cf09250c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098cd45e3adc545ddcf952dc942fc4cd') in 0.009799 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.772615 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass
-  artifactKey: Guid(62b467d6754011d4a85229f74e6b475c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass using Guid(62b467d6754011d4a85229f74e6b475c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ed4bf439325bd5616fcdef3910e282') in 0.007713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.056168 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalf.png
-  artifactKey: Guid(d3e5d33c33af56d47a76747655dd94ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalf.png using Guid(d3e5d33c33af56d47a76747655dd94ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5d2496c60dd3c1957b5786a4b90715') in 0.009741 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice06_06.png
-  artifactKey: Guid(f4088e71ac3eea8429cfe426b9ecb331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice06_06.png using Guid(f4088e71ac3eea8429cfe426b9ecb331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39029854a89bee020667c92ffea67b00') in 0.015108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice04_04.png
-  artifactKey: Guid(fa68a8dc292661c4287a2e0e4a2730dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice04_04.png using Guid(fa68a8dc292661c4287a2e0e4a2730dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7bbb0e2031a7467d53d751c2b99a8cb') in 0.008309 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice23_23.png
-  artifactKey: Guid(2cb30fc73faeea44a9a3deeae2113ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice23_23.png using Guid(2cb30fc73faeea44a9a3deeae2113ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06d3a7e39358e2cdb91e2862e0e99ae') in 0.010791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice24_24.png
-  artifactKey: Guid(f5fead7275a5ac9408191d9adfb98418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice24_24.png using Guid(f5fead7275a5ac9408191d9adfb98418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d60d399cd480f3f5166127054c4f25f') in 0.013537 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice27_27.png
-  artifactKey: Guid(fde46d8865af6fb428ef0b14a380bd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice27_27.png using Guid(fde46d8865af6fb428ef0b14a380bd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06cbdbc443364777a3230e76dacee0f') in 0.012325 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice01_01.png
-  artifactKey: Guid(9690aae20bbc79144b54804438c688f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice01_01.png using Guid(9690aae20bbc79144b54804438c688f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa53d396f81454c90d62e5f5acc3fd97') in 0.011913 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice36_36.png
-  artifactKey: Guid(46c92a3d7d3007342a8bdff4ffb16ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice36_36.png using Guid(46c92a3d7d3007342a8bdff4ffb16ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9226f81707cb048a382a812e0acb80') in 0.010162 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice13_13.png
-  artifactKey: Guid(347509f7f0dfba442a3c2eaf21ff302a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice13_13.png using Guid(347509f7f0dfba442a3c2eaf21ff302a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa9f91baaff45e916b0b90431df0b25') in 0.010699 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice03_03.png
-  artifactKey: Guid(399fb7fc6ee84694caa2c184219059ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice03_03.png using Guid(399fb7fc6ee84694caa2c184219059ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76110c2b778d0d65a74e44188fdf11bb') in 0.010707 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice19_19.png
-  artifactKey: Guid(44b38160e0f5b4d46b96dcb4e9b1ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice19_19.png using Guid(44b38160e0f5b4d46b96dcb4e9b1ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70d87fb7fd9b7834d1ba0465f8ef754') in 0.008602 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice35_35.png
-  artifactKey: Guid(46f67213ff8e7c743918275ba9883268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice35_35.png using Guid(46f67213ff8e7c743918275ba9883268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5b1b5366a5a0eed5d51933c16644a0') in 0.010330 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice26_26.png
-  artifactKey: Guid(8f9dca3cf9d85bb4b998d43b476e74e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice26_26.png using Guid(8f9dca3cf9d85bb4b998d43b476e74e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328dff43b4c73591c7be8ed67e82298d') in 0.008849 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice18_18.png
-  artifactKey: Guid(091672a613ea859458854595538639a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice18_18.png using Guid(091672a613ea859458854595538639a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e384094fcc0acbae56f1292254543b') in 0.008699 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfRight.png
-  artifactKey: Guid(ba6dd7f9163cd794b861524d67c88070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfRight.png using Guid(ba6dd7f9163cd794b861524d67c88070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a84f9985c0ec07545381587d1b64ab') in 0.011862 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice15_15.png
-  artifactKey: Guid(35183ec3003c6584bb649f82e2c464bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice15_15.png using Guid(35183ec3003c6584bb649f82e2c464bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b11c7843dda16cc38d995b00f8f3d8c') in 0.013132 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice25_25.png
-  artifactKey: Guid(72cd1c59ca17ac847974844f0e27896e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice25_25.png using Guid(72cd1c59ca17ac847974844f0e27896e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0455e4c4cef172c45e1d47a9ffd120fc') in 0.010100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice16_16.png
-  artifactKey: Guid(277e2327e562bd245a1cd0d03f198b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice16_16.png using Guid(277e2327e562bd245a1cd0d03f198b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18357b8ea17a571b25488af1a003f976') in 0.013226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice30_30.png
-  artifactKey: Guid(bd514836dc8985f499c65f9984825f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice30_30.png using Guid(bd514836dc8985f499c65f9984825f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0982c40a4dcce2b01b67d27d5497c8') in 0.010065 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice21_21.png
-  artifactKey: Guid(9d2d581ba1d43214e832e9620f370a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice21_21.png using Guid(9d2d581ba1d43214e832e9620f370a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7b847eeeda1d9179762e94cd35b422') in 0.008530 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice12_12.png
-  artifactKey: Guid(835263ad249fa4e47b16dc352a49972b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice12_12.png using Guid(835263ad249fa4e47b16dc352a49972b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93fa4e57f8f04ebc91bb3d2bb1cef9b1') in 0.011074 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice32_32.png
-  artifactKey: Guid(63aa27230c42c9e408bfb7ae93899fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice32_32.png using Guid(63aa27230c42c9e408bfb7ae93899fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04aaa6985352ac38c2a7f65ec676572a') in 0.009868 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfLeft.png
-  artifactKey: Guid(a7714d88ec800854fb6f7215cae2098f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfLeft.png using Guid(a7714d88ec800854fb6f7215cae2098f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ad65f4ceacd66d5929ca4d263b4db5') in 0.010204 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice20_20.png
-  artifactKey: Guid(8876fbca6289aaa40a09b69ac4572d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice20_20.png using Guid(8876fbca6289aaa40a09b69ac4572d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc27212617228d7cd532645975d7c3c') in 0.009407 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice29_29.png
-  artifactKey: Guid(d37e75a3fa3ca4c4d917ded581c196bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice29_29.png using Guid(d37e75a3fa3ca4c4d917ded581c196bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b33cecabe1c67916ce06216090bfda') in 0.008901 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice17_17.png
-  artifactKey: Guid(8e545c5c859ab734f9e505f3fac4525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice17_17.png using Guid(8e545c5c859ab734f9e505f3fac4525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bdf74a280358381291db7e5c6f3e965') in 0.009549 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000338 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice07_07.png
-  artifactKey: Guid(e94ff0376454d4e4581c8f9e61de1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice07_07.png using Guid(e94ff0376454d4e4581c8f9e61de1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75e256f18baa8e2ef7bec89db0ab69c') in 0.008516 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice22_22.png
-  artifactKey: Guid(fa70c85a1308ba1419e8625cff4b857f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice22_22.png using Guid(fa70c85a1308ba1419e8625cff4b857f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b9ef2658c75f6ced69ae1fddc40bc5') in 0.008340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice34_34.png
-  artifactKey: Guid(b55ab92dc40a8514ca7af87d3c2291a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice34_34.png using Guid(b55ab92dc40a8514ca7af87d3c2291a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6bd66e6611079710119077cf66e529') in 0.009120 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfMid.png
-  artifactKey: Guid(72cba75d5b41b3d47b10972eb2ac06bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/grassHalfMid.png using Guid(72cba75d5b41b3d47b10972eb2ac06bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f83f68466f1e24586447d70e93695e') in 0.009276 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice31_31.png
-  artifactKey: Guid(215d0bb76f1f4f94a97eae4d259dcef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice31_31.png using Guid(215d0bb76f1f4f94a97eae4d259dcef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992e1f0301a2054fd4318ab175842bd5') in 0.008532 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice28_28.png
-  artifactKey: Guid(d0fadf26dc8f8cc4d92074b008903423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice28_28.png using Guid(d0fadf26dc8f8cc4d92074b008903423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f14d914910198b2af48abfa86feca9') in 0.012093 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice02_02.png
-  artifactKey: Guid(942bad6c44ec2e3408b6c2c52da29148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice02_02.png using Guid(942bad6c44ec2e3408b6c2c52da29148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f918448f411569b13cd1af0acdfd14f') in 0.008258 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice14_14.png
-  artifactKey: Guid(ee466464f19f70c4390ba0db50db26b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice14_14.png using Guid(ee466464f19f70c4390ba0db50db26b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e8b3f3d7cbc17a8022ecf56cf67aa3') in 0.009449 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice33_33.png
-  artifactKey: Guid(21e8cef7c49df734b8682838f0b6d0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice33_33.png using Guid(21e8cef7c49df734b8682838f0b6d0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2639333f5dd598c526b8d0bfee5dc0') in 0.008727 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice05_05.png
-  artifactKey: Guid(ceb9779798685cb43bdfbeed30bb3338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/slice05_05.png using Guid(ceb9779798685cb43bdfbeed30bb3338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7bff19406ca701a27aae4b24b158790') in 0.009068 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.653428 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet
-  artifactKey: Guid(73a8fbf7c30a81a4fa5933ecae858132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet using Guid(73a8fbf7c30a81a4fa5933ecae858132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cdd805d953d358b7a526a890b6c9978') in 0.002475 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.102118 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png
-  artifactKey: Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png using Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0cf35d200dcbda6c691e53d273f6d09') in 0.015114 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.007101 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.xml
-  artifactKey: Guid(1161d7bb15f00f940b949d60d2749f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.xml using Guid(1161d7bb15f00f940b949d60d2749f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50ba58004e7034368583b007c098900') in 0.041419 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 31.504107 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png
-  artifactKey: Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png using Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3a5ed2ddd0b5229870b26054f6063e') in 0.011667 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 25.764277 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png
-  artifactKey: Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png using Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b98b3be4729e0c16ca72380472ae949') in 0.012761 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 258.360868 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png
-  artifactKey: Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet.png using Guid(fd0bdb092c1a3e54c8b50455fa24df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f15f9576323a52e02fb1dc5b70f804') in 0.099288 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.615455 seconds.
-  path: Assets/Scenes/Kingdombattle.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Kingdombattle.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d0d62ac7512771368148df7dd315f8') in 0.006888 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 90.482777 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/GrassTiles/Grass.prefab
-  artifactKey: Guid(f4cb7506fc2b7b741ad3f8e5b107836f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/GrassTiles/Grass.prefab using Guid(f4cb7506fc2b7b741ad3f8e5b107836f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e47989f0c3488537dfd0d7ced57b523') in 0.027513 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.202499 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_0.asset
-  artifactKey: Guid(7fe9aceb00ee0c84fa0895862a0f8135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_0.asset using Guid(7fe9aceb00ee0c84fa0895862a0f8135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f5fcee3bea73d70e0fd062894098c9f') in 0.015395 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_3.asset
-  artifactKey: Guid(bb838d2f632112d4ea96559cdd9618ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_3.asset using Guid(bb838d2f632112d4ea96559cdd9618ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bccca8bf2ddf0503c2d96d98c77fd827') in 0.008954 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_34.asset
-  artifactKey: Guid(1ac599b4674d95b418df38b38573c57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_34.asset using Guid(1ac599b4674d95b418df38b38573c57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717041ea2f6587b36d26494425288c86') in 0.009354 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_32.asset
-  artifactKey: Guid(d76bc303b7a4a74429df8835f0115fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_32.asset using Guid(d76bc303b7a4a74429df8835f0115fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e516cdad8d2f75a30d8f2679ee62bef') in 0.010403 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_25.asset
-  artifactKey: Guid(8347d8e494f1cf1479679952b30a3254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_25.asset using Guid(8347d8e494f1cf1479679952b30a3254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5504461f931ab9a05757e91c76bd7d') in 0.009579 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_23.asset
-  artifactKey: Guid(a02a79a63add2814da8360f15671a242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_23.asset using Guid(a02a79a63add2814da8360f15671a242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52f083fee8aaa3cf44c991a9f46cd7c') in 0.009215 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_15.asset
-  artifactKey: Guid(a925a8d841c10c849a3c0ee13f9bbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_15.asset using Guid(a925a8d841c10c849a3c0ee13f9bbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac9a2c36e25caa1c8d6da963480b47c') in 0.010990 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_27.asset
-  artifactKey: Guid(5c6fb511e67012043b772cc264403142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_27.asset using Guid(5c6fb511e67012043b772cc264403142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18db85f2e43aa94ae6c029a1fbae8d5c') in 0.012056 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_5.asset
-  artifactKey: Guid(f15ca5bdc140f584a860d0c50fa35cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_5.asset using Guid(f15ca5bdc140f584a860d0c50fa35cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468dc3b7f49120a50d63f5fb0d5d4784') in 0.010023 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_7.asset
-  artifactKey: Guid(ae51c0641a9e31f4ab07d309c7fc17f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_7.asset using Guid(ae51c0641a9e31f4ab07d309c7fc17f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1329edcac3f1df1716df5dfd936dc9e') in 0.012752 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_21.asset
-  artifactKey: Guid(aa4076cc3f740ff4db61653b2056aa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_21.asset using Guid(aa4076cc3f740ff4db61653b2056aa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df39c3f0c7b6199315f6fc663fc098') in 0.011574 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_33.asset
-  artifactKey: Guid(6e032657f2a31bf44bd4f8db8cccef80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_33.asset using Guid(6e032657f2a31bf44bd4f8db8cccef80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c687187d7b3e4029b89336b4c90588') in 0.009404 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_6.asset
-  artifactKey: Guid(9f7c195b2b01ac64fb2d49bd895b95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_6.asset using Guid(9f7c195b2b01ac64fb2d49bd895b95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbe84e358bd87b915de5f9382d36bc1') in 0.011907 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_9.asset
-  artifactKey: Guid(f6fa95ade4b1408479e8be37e3b41d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_9.asset using Guid(f6fa95ade4b1408479e8be37e3b41d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26efeb0ece73bc786568e45743dc67b8') in 0.010248 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_14.asset
-  artifactKey: Guid(2cbf935f2f506fc4fa328577bb24dbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_14.asset using Guid(2cbf935f2f506fc4fa328577bb24dbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2415511fa43c8dae716e2b5a7e0e8c51') in 0.009867 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_16.asset
-  artifactKey: Guid(d5dce19fb4862f14182d5ba75157a03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_16.asset using Guid(d5dce19fb4862f14182d5ba75157a03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1e63f06e0434f8b0d17884695e18d7') in 0.012408 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_13.asset
-  artifactKey: Guid(4d0c873e397193943a19f018c2667b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_13.asset using Guid(4d0c873e397193943a19f018c2667b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18d49b943e11f4ec21591f405eae1e8') in 0.012211 seconds 
+  Time since last request: 0.000215 seconds.
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382.jpg
+  artifactKey: Guid(652712112a9dbe040af718e131c92c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382.jpg using Guid(652712112a9dbe040af718e131c92c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb903a16462e1f3e0fd47f858507d640') in 0.104725 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000202 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_30.asset
-  artifactKey: Guid(12612b0f173345f4b8e8b742ce9c4fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_30.asset using Guid(12612b0f173345f4b8e8b742ce9c4fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575fc0f4922228f206cc869d8ca4cb26') in 0.010950 seconds 
+  path: Assets/Graphics/Idle.png
+  artifactKey: Guid(f7b6ee033cbc9da4db7776eb5613ff83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Idle.png using Guid(f7b6ee033cbc9da4db7776eb5613ff83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4918bdc66cd8ac4a3a08d42212ee56b9') in 0.016000 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_35.asset
-  artifactKey: Guid(be829c1700bc2384182c27449c3d1567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_35.asset using Guid(be829c1700bc2384182c27449c3d1567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2568b6bfb2a25c978d471a473506de8') in 0.010963 seconds 
+  Time since last request: 0.000284 seconds.
+  path: Assets/Graphics/Fairy tale like backgrounds.prefab
+  artifactKey: Guid(86d413fe9ab7f2f45bba21471ae2c847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Fairy tale like backgrounds.prefab using Guid(86d413fe9ab7f2f45bba21471ae2c847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1080e3fd4af79782d86c726073b19d') in 0.029879 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_29.asset
-  artifactKey: Guid(e04398db8e047404db74299c753a2870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_29.asset using Guid(e04398db8e047404db74299c753a2870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b17c6318d1dc93b1e60d1f045952f7d') in 0.009902 seconds 
+  Time since last request: 0.000217 seconds.
+  path: Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_3.asset
+  artifactKey: Guid(1a2bb3cd98785844583842b47e0df6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/1fb4ff9025c0a011bca360108b8b2382_3.asset using Guid(1a2bb3cd98785844583842b47e0df6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c539fbe6bfe48da5d05bd2d39395c9') in 0.009145 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_10.asset
-  artifactKey: Guid(88b8f2b5c543bca4a854a8bd75c56fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_10.asset using Guid(88b8f2b5c543bca4a854a8bd75c56fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4154af6637a6ae5993ceffc498e02285') in 0.012122 seconds 
+  Time since last request: 5.250226 seconds.
+  path: Assets/Scenes/Fighting.unity
+  artifactKey: Guid(20d95587cba18d94791c41b7561ba697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Fighting.unity using Guid(20d95587cba18d94791c41b7561ba697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de53404710bdc73fcbfe467aa472dee') in 0.008201 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_4.asset
-  artifactKey: Guid(33166570900111b45bfba9aaa33c38ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_4.asset using Guid(33166570900111b45bfba9aaa33c38ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e2dc48cffd3c2988b1323cc7fa5169') in 0.012755 seconds 
+  Time since last request: 1.066040 seconds.
+  path: Assets/Scenes/Kingdombattle.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kingdombattle.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384f294d5afdd4a60c775faa42cdad8e') in 0.006490 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_31.asset
-  artifactKey: Guid(13dc1ed18a1f9384ea6b5068b4da09c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_31.asset using Guid(13dc1ed18a1f9384ea6b5068b4da09c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26055894a2910750581102c62db6358e') in 0.009782 seconds 
+  Time since last request: 41.603439 seconds.
+  path: Assets/Script graphs/CameraFollow.asset
+  artifactKey: Guid(10e1866c0adba8f41aa01af2ec8dbff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script graphs/CameraFollow.asset using Guid(10e1866c0adba8f41aa01af2ec8dbff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd11038313d9a3f236cb1f73c95e067') in 0.152858 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_11.asset
-  artifactKey: Guid(ca7ec5cc4ad1371439878ced40330eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_11.asset using Guid(ca7ec5cc4ad1371439878ced40330eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be74d889fd5e75c3e870b8f05ceccf0') in 0.012181 seconds 
+  Time since last request: 0.000255 seconds.
+  path: Assets/Script graphs/Movement.asset
+  artifactKey: Guid(8edaaca7edf767249a9d7295ca8677ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script graphs/Movement.asset using Guid(8edaaca7edf767249a9d7295ca8677ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa19d80a661ffeee8de9ee273cfe7ecc') in 0.316621 seconds 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_28.asset
-  artifactKey: Guid(8af96be1e03dc32469cdf42b124982a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_28.asset using Guid(8af96be1e03dc32469cdf42b124982a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38665bd4a4c64ec901e7da801a7ce757') in 0.010389 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_1.asset
-  artifactKey: Guid(96f7d193ca15e44488286fb1087c2a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_1.asset using Guid(96f7d193ca15e44488286fb1087c2a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd3ff435fd5c4991623490d9fdef4ac') in 0.011454 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_20.asset
-  artifactKey: Guid(79c2e6d2b54981c4a94474b942ef1170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_20.asset using Guid(79c2e6d2b54981c4a94474b942ef1170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3abccfa22d79e76c238cdd3ade314f') in 0.011321 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_2.asset
-  artifactKey: Guid(f2ace5926756107469f92fd2ad7ecb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_2.asset using Guid(f2ace5926756107469f92fd2ad7ecb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e4a2107610631b09c8897e78b1fc70') in 0.011814 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_19.asset
-  artifactKey: Guid(8547390f222ab5144850a65320a2e5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_19.asset using Guid(8547390f222ab5144850a65320a2e5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b12839285f5c6cad35a361091c13c99') in 0.011046 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_12.asset
-  artifactKey: Guid(e556d9583c8a8c848af23c0a6bf81ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_12.asset using Guid(e556d9583c8a8c848af23c0a6bf81ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bbef3df34db71bc5a5bdb0b288b7fa') in 0.011017 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_24.asset
-  artifactKey: Guid(53c158168897b8c4f92307badb79b607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_24.asset using Guid(53c158168897b8c4f92307badb79b607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046208795ec3e2aaec75b933ea99a31f') in 0.011391 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_17.asset
-  artifactKey: Guid(a809cd12ff41c87438e36c8ca7a0d45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_17.asset using Guid(a809cd12ff41c87438e36c8ca7a0d45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4952193993d5ca44e2a1b2dcb5e8d76c') in 0.011538 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_18.asset
-  artifactKey: Guid(62a64f08e6ec65248b99ac49206d87aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_18.asset using Guid(62a64f08e6ec65248b99ac49206d87aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c1240288ff7084ab7990dd2f64e97b') in 0.009518 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_8.asset
-  artifactKey: Guid(98c796081ee76f648b3c9ef1c8d97567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_8.asset using Guid(98c796081ee76f648b3c9ef1c8d97567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546bcabbdbf3d99c5e1d24b4d3283f94') in 0.009480 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_22.asset
-  artifactKey: Guid(4c725bdf501224f46935dd9e7df9eafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_22.asset using Guid(4c725bdf501224f46935dd9e7df9eafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86802400ffff4e3235934c7f63e92143') in 0.010885 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_26.asset
-  artifactKey: Guid(f43432847f56537418ad201ef9d77d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/platformer-extendedtiles-0/PNG Grass/Spritesheet/sheet_26.asset using Guid(f43432847f56537418ad201ef9d77d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c832569875d01d735c8a62b928cf06b0') in 0.009546 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 785.934551 seconds.
-  path: Assets/Graphics/Final Taiga Forest
-  artifactKey: Guid(d9721e15523226e4ea9469be0464f1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest using Guid(d9721e15523226e4ea9469be0464f1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16937e439fcc1997f77137982f3baf6a') in 0.006612 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.747251 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest
-  artifactKey: Guid(2b1a9bfccbeb6a944b06d52614d145cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest using Guid(2b1a9bfccbeb6a944b06d52614d145cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a7d2a22a0ef6c1085be17acdbbfb2f') in 0.002358 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.086133 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.png
-  artifactKey: Guid(2bc5074a3e33f1c4999448ca2e0df986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.png using Guid(2bc5074a3e33f1c4999448ca2e0df986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd466059a2bb5188c05260b7a5372ac3c') in 0.010644 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_3.png
-  artifactKey: Guid(4aae3f954265a4b49a6aa66ea90d4b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_3.png using Guid(4aae3f954265a4b49a6aa66ea90d4b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2966625deb3c40504c57e785e21bf66f') in 0.011295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/baner.png
-  artifactKey: Guid(20b406e2964902049adb30a1febcd70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/baner.png using Guid(20b406e2964902049adb30a1febcd70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b70ac357ae642f61d2c427e78d31f15') in 0.011959 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/background_2.png
-  artifactKey: Guid(95fc6ef4d6fdfdb44999bfc0a5328d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/background_2.png using Guid(95fc6ef4d6fdfdb44999bfc0a5328d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06fdc05d4258d27e9919a2f3427a9b7e') in 0.009952 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Tiles.png
-  artifactKey: Guid(ad7cf158451b03e4097b4ee0eee0bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Tiles.png using Guid(ad7cf158451b03e4097b4ee0eee0bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ce7f37a614db0947835880eb569a9f') in 0.010308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_1.png
-  artifactKey: Guid(a0ac728223017ad4f9f1ca8d61c66760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_1.png using Guid(a0ac728223017ad4f9f1ca8d61c66760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e92e0390a0adc7c886202407c9bda7') in 0.011221 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_1_2.png
-  artifactKey: Guid(95d3b1a49dd4d7d4eae325e4ae68414e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_1_2.png using Guid(95d3b1a49dd4d7d4eae325e4ae68414e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ee8e47a8440f614380cc9961523150') in 0.011334 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/tree.png
-  artifactKey: Guid(3bad159f04cb99247ac76386f738176a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/tree.png using Guid(3bad159f04cb99247ac76386f738176a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb421f6d713122f4c0ace701b2b9955') in 0.010979 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_0.png
-  artifactKey: Guid(b7d360e237cbe734098e0ae46dbe1225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_0.png using Guid(b7d360e237cbe734098e0ae46dbe1225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0687de64206977865462f438ba11f072') in 0.010273 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_1.png
-  artifactKey: Guid(d33b4bcb80ed6d949a57809064f303e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background_1.png using Guid(d33b4bcb80ed6d949a57809064f303e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e650dad5d4e90c6a6703129575a6b7f1') in 0.010950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 55.961425 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.png
-  artifactKey: Guid(2bc5074a3e33f1c4999448ca2e0df986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.png using Guid(2bc5074a3e33f1c4999448ca2e0df986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7812ce7f09bb711186eae667da06d0d6') in 0.022339 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.223058 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background.prefab
-  artifactKey: Guid(d66838cb9a7571c4cacc1320c066fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background.prefab using Guid(d66838cb9a7571c4cacc1320c066fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a42a5aa8dc19696f8973116fbabcec') in 0.019004 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 39.419862 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.asset
-  artifactKey: Guid(ff77e04aad77bfd4fba924513cf325a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Back_0.asset using Guid(ff77e04aad77bfd4fba924513cf325a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2527f13a36d9dd84a38b12ae129d775e') in 0.014308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background.prefab
-  artifactKey: Guid(d66838cb9a7571c4cacc1320c066fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Background.prefab using Guid(d66838cb9a7571c4cacc1320c066fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea6a9c464116f2c55594285be5e8a80') in 0.009741 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 108.329679 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Tiles.png
-  artifactKey: Guid(ad7cf158451b03e4097b4ee0eee0bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Tiles.png using Guid(ad7cf158451b03e4097b4ee0eee0bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef63e87836ec63b94b7bb1dc66b7c89e') in 0.011951 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 197.997005 seconds.
-  path: Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Materials/Background_3.mat
-  artifactKey: Guid(29960fc937a865648a751036e77b28b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Final Taiga Forest/Final Taiga Forest/Materials/Background_3.mat using Guid(29960fc937a865648a751036e77b28b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c50265b125a48477a7f21de3b70b47') in 0.129446 seconds 
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004342 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jmercer4\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jmercer4\Unity Projects\kingdom-unity\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Domain Reload Profiling:
+	ReloadAssembly (880ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (712ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (280ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (233ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (166ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3705 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4229.
+Total: 2.995500 ms (FindLiveObjects: 0.228600 ms CreateObjectMapping: 0.127600 ms MarkObjects: 2.621600 ms  DeleteObjects: 0.016900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
